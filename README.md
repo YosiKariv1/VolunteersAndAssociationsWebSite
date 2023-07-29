@@ -2,7 +2,15 @@
 
 This robust web application acts as an interactive bridge between volunteers and non-profit organizations seeking assistance. The platform is part of the "Project Management" coursework, completed during the third year of the Software Engineering program at Sami Shamoon College of Engineering.
 
-                                                       [![Demo Video](http://img.youtube.com/vi/pYVJVlK5yG8/0.jpg)](http://www.youtube.com/watch?v=pYVJVlK5yG8)
+
+## Project Preview
+
+<p align="center">
+  <a href="http://www.youtube.com/watch?v=pYVJVlK5yG8">
+    <img src="http://img.youtube.com/vi/pYVJVlK5yG8/0.jpg" width="800" height="500">
+  </a>
+</p>
+
 
 ## Features 🎯
 
