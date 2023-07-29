@@ -1,55 +1,68 @@
-# BS-PMC-2023-Team31
-## Volunteers & Associations Website
+# Volunteers & Associations Website
 
-This web application serves as a dynamic bridge, connecting volunteers and non-profit organizations in need of assistance. The platform is part of the "Project Management" coursework, undertaken in the third year of the software engineering program at the Sami Shamoon College of Engineering.
+This robust web application acts as an interactive bridge between volunteers and non-profit organizations seeking assistance. The platform is part of the "Project Management" coursework, completed during the third year of the Software Engineering program at Sami Shamoon College of Engineering.
 
-## Features
+[![Demo Video](http://img.youtube.com/vi/pYVJVlK5yG8/0.jpg)](http://www.youtube.com/watch?v=pYVJVlK5yG8)
 
-- **Three User Types**: The platform accommodates volunteers, associations, and administrators, each having distinct access and capabilities.
-- **Profile Management**: Users can easily update and manage their public profiles.
-- **Wishlist Functionality**: Enables volunteers to bookmark and track their favorite associations.
-- **Association Listing & Detail View**: Comprehensive listing and detailed information of associations are available for volunteers to explore and engage.
-- **Event & Ongoing Volunteering**: Associations can schedule one-off events. Volunteers can choose between event-based volunteering or ongoing commitment.
-- **Admin Dashboard**: A robust dashboard for site administrators to oversee and manage user activities.
+## Features 🎯
 
-## Getting Started
+- **Three User Types**: Tailored experiences for volunteers, associations, and administrators.
+- **Profile Management**: Users can manage and update their public profiles with ease.
+- **Wishlist Functionality**: Allows volunteers to save and keep track of their favorite associations.
+- **Association Listing & Detail View**: Detailed information on associations for volunteers to explore and engage with.
+- **Event & Ongoing Volunteering**: Associations can schedule events or ongoing volunteering opportunities.
+- **Admin Dashboard**: A comprehensive dashboard for site administrators to manage user activities.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## Getting Started 🚀
 
-### Prerequisites
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-Ensure you have the following installed on your local development machine:
+### Prerequisites 📝
 
-- Node.js - [Download & Install Node.js](https://nodejs.org/en/download/) and the npm package manager.
+Make sure you have the following installed on your local development machine:
 
-### Installation 
+- [Node.js and npm](https://nodejs.org/en/download/)
 
-To set up everything:
+### Installation 🛠️
 
-1. Clone the repository:
+1. **Clone the repository**:
 
-```bash
-    git clone https://github.com/username/project.git
-```
-2. Install the dependencies:
+\```bash
+git clone https://github.com/username/project.git
+\```
 
-```bash
-    npm install
-    cd client && npm install
-```
-### Running the App
+2. **Install the dependencies**:
 
-To start the application:
+Navigate to the project folder and install the server-side dependencies:
 
-```bash
-    npm start
-    cd client && npm start
-```
+\```bash
+npm install
+\```
 
-### Running Tests
+Then navigate to the client folder and install the client-side dependencies:
 
-To run the tests:
+\```bash
+cd client && npm install
+\```
 
-```bash
-    cd client && npm test
-```
+### Running the App 🏃‍♂️
+
+To start the server, run the following command in the project's root directory:
+
+\```bash
+npm start
+\```
+
+To start the client, navigate to the client directory and run the following command:
+
+\```bash
+cd client && npm start
+\```
+
+### Running Tests 🧪
+
+To run the tests, navigate to the client directory and run the following command:
+
+\```bash
+cd client && npm test
+\```
