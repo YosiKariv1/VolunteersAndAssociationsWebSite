@@ -35,42 +35,48 @@ Make sure you have the following installed on your local development machine:
 
 1. **Clone the repository**:
 
-\```bash
+```bash
 git clone https://github.com/username/project.git
-\```
+```
 
 2. **Install the dependencies**:
 
 Navigate to the project folder and install the server-side dependencies:
 
-\```bash
+```bash
 npm install
-\```
+```
 
 Then navigate to the client folder and install the client-side dependencies:
 
-\```bash
+```bash
 cd client && npm install
-\```
+```
 
 ### Running the App 🏃‍♂️
 
 To start the server, run the following command in the project's root directory:
 
-\```bash
+```bash
 npm start
-\```
+```
 
 To start the client, navigate to the client directory and run the following command:
 
-\```bash
+```bash
 cd client && npm start
-\```
+```
 
 ### Running Tests 🧪
 
 To run the tests, navigate to the client directory and run the following command:
 
-\```bash
+```bash
 cd client && npm test
-\```
+```
+
+### Contact Information
+
+- LinkedIn - Yosi Kariv
+- Email - Yosi277@gmail.com
+
